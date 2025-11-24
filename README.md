@@ -1,4 +1,4 @@
-# PROGRAMMING STUDENT <br>Cédric BOUCHER
+# PROGRAMMING STUDENT
 Je recherche une alternant en développement de l'IA (Intelligence Artificielle), web ou mobile.
 
 ## About me
