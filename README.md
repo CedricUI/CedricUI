@@ -3,7 +3,7 @@
 Je m'appelle Cédric et je recherche une alternant en développement de l'IA (Intelligent Artificiel), Web ou mobile.
 
 ### About me
-![Texte alternatif](https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg "Le titre de mon image")
+![Texte alternatif](https://en.wikipedia.org/wiki/HTML#/media/File:HTML5 "Le titre de mon image")
 
 <!--
 **CedricUI/CedricUI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
