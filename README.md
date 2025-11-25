@@ -17,7 +17,7 @@ En reconversion dans la programmation, je souhaite pouvoir développer des progr
 |  **Hard Skills**  |  <picture> <img alt="Logo HTML." src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" width=50> <img alt="Logo CSS." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" width=35> <img alt="Logo JS." src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" width=40> <img alt="Logo GoLand." src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" width=90> <img alt="Logo Rust." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width=45> <img alt="Logo WordPress." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQqvP9mSAN_KNxZlbvD9VT-yl4Vf_PuT6Cw&s" width=45> </picture>   |
 |  **Soft Skills**    |    Créativité - Communication visuelle - Curiosité - Esprit d’équipe - Simplicité et Pragmatisme - Fiabilité - Autonomie |
 
-## Logiciels pratiqués pendant ma formation
+## Logiciels pratiqués pendant mes formations
 
 <details>
 <summary>Langage de programmation, libraries, base de données, logiciels...</summary>
