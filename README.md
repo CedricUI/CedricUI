@@ -1,5 +1,5 @@
 # Étudiant en programmation
-Étudiant à l'école ZOne01, je suis à la recherche d’une alternance en développement d’intelligence artificielle, web ou mobile.
+Étudiant à l'école Zone01, je suis à la recherche d’une alternance en développement d’intelligence artificielle, web ou mobile.
 
 ## À propos
 En reconversion dans la programmation, je souhaite pouvoir développer des programmes pour faciliter la vie de l’être humain, et c’est pour cela que j’ai choisi l’école Zone01 pour me former dans le monde du développement. De plus, les valeurs de l’école sont axées sur l’entraide, la persévérance et le partage des connaissances, ce qui est à l’origine même du web.
@@ -7,7 +7,7 @@ En reconversion dans la programmation, je souhaite pouvoir développer des progr
 -- Fred Brooks
 
 
-**Création**  
+**Création :**  
 [https//:www.evreux-muay-thai-gym.fr](https://evreux-muay-thai-gym.fr/)
 
 ## Compétences
@@ -20,7 +20,7 @@ En reconversion dans la programmation, je souhaite pouvoir développer des progr
 ## Logiciels pratiqués pendant mes formations
 
 <details>
-<summary>Langage de programmation, libraries, base de données, logiciels...</summary>
+<summary>Langage de programmation, library, base de données, logiciels...</summary>
   <br>
   
 **Langages :**  
@@ -34,7 +34,7 @@ En reconversion dans la programmation, je souhaite pouvoir développer des progr
 <img alt="Logo Rust." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width=40>
 </picture>
 
-**Libraries :**  
+**Frameworks et library :**  
 <picture>
 <img alt="Logo Angular." src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" width=50>
 <img alt="Logo Vue js." src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width=50>
@@ -54,14 +54,14 @@ En reconversion dans la programmation, je souhaite pouvoir développer des progr
 <img alt="Logo Strapi." src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" width=50>
 </picture>
 
-**Team tools :**  
+**Environnement de collaboration :**  
 <picture>
 <img alt="Logo git." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s" width=60>
 <img alt="Logo Jira." src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" width=60>
 <img alt="Logo confluence." src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/2560px-Atlassian_Confluence_2017_logo.svg.png" width=140>
 </picture>
 
-**Creation tools :**  
+**Outil de visualisation graphique :**  
 <picture>
 <img alt="Logo Photoshop." src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" width=50>
 <img alt="Logo Illustrator." src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2048px-Adobe_Illustrator_CC_icon.svg.png" width=50>
