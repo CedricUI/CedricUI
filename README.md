@@ -14,7 +14,7 @@ En reconversion dans la programmation, je souhaite pouvoir développer des progr
 
 |||
 |--------------------------------|------------------------------------|
-|  **Hard Skills**  |  <picture> <img alt="Logo HTML." src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" width=50> <img alt="Logo CSS." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" width=35> <img alt="Logo JS." src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" width=40> <img alt="Logo GoLand." src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" width=100> <img alt="Logo Rust." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width=50> <img alt="Logo WordPress." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQqvP9mSAN_KNxZlbvD9VT-yl4Vf_PuT6Cw&s" width=50> </picture>   |
+|  **Hard Skills**  |  <picture> <img alt="Logo HTML." src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" width=50> <img alt="Logo CSS." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" width=35> <img alt="Logo JS." src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" width=40> <img alt="Logo GoLand." src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" width=90> <img alt="Logo Rust." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width=45> <img alt="Logo WordPress." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQqvP9mSAN_KNxZlbvD9VT-yl4Vf_PuT6Cw&s" width=45> </picture>   |
 |  **Soft Skills**    |    Créativité - Communication visuelle - Curiosité - Esprit d’équipe - Simplicité et Pragmatisme - Fiabilité - Autonomie |
 
 ### Creation 
@@ -28,7 +28,7 @@ En reconversion dans la programmation, je souhaite pouvoir développer des progr
 <img alt="Logo JS." src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" width=40>
 <img alt="Logo GoLand." src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" width=90>
 <img alt="Logo Java." src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1100px-Java_Logo.svg.png" width=40>
-<img alt="Logo PHP." src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width=80>
+<img alt="Logo PHP." src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width=70>
 <img alt="Logo Rust." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width=40>
 </picture>
 
@@ -55,16 +55,16 @@ En reconversion dans la programmation, je souhaite pouvoir développer des progr
 ### Team tools
 <picture>
 <img alt="Logo git." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s" width=60>
-<img alt="Logo Jira." src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" width=70>
-<img alt="Logo confluence." src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/2560px-Atlassian_Confluence_2017_logo.svg.png" width=160>
+<img alt="Logo Jira." src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" width=60>
+<img alt="Logo confluence." src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/2560px-Atlassian_Confluence_2017_logo.svg.png" width=140>
 </picture>
 
 ### Creation tools
 <picture>
-<img alt="Logo Photoshop." src="" width=50>
-<img alt="Logo Illustrator." src="" width=50>
-<img alt="Logo Xd." src="" width=50>
-<img alt="Logo Figma." src="" width=50>
+<img alt="Logo Photoshop." src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" width=50>
+<img alt="Logo Illustrator." src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2048px-Adobe_Illustrator_CC_icon.svg.png" width=50>
+<img alt="Logo Xd." src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" width=50>
+<img alt="Logo Figma." src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width=32>
 </picture>
 
 <!--
