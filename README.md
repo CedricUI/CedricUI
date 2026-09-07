@@ -1,73 +1,194 @@
 # Étudiant en programmation
+
 Étudiant à l'école Zone01, je suis à la recherche d’une alternance en développement d’intelligence artificielle, web ou mobile.
 
 ## À propos
-En reconversion dans la programmation, je souhaite pouvoir développer des programmes pour faciliter la vie de l’être humain, et c’est pour cela que j’ai choisi l’école Zone01 pour me former dans le monde du développement. De plus, les valeurs de l’école sont axées sur l’entraide, la persévérance et le partage des connaissances, ce qui est à l’origine même du web.
-> "Tout seul on va plus vite, ensemble, on va plus loin !"  
--- Fred Brooks
 
+En reconversion dans la programmation, je souhaite développer des programmes qui peuvent faciliter la vie des utilisateurs. C’est pour cela que j’ai choisi l’école Zone01 pour me former dans le développement.
 
-**Création :**  
-[https//:www.evreux-muay-thai-gym.fr](https://evreux-muay-thai-gym.fr/)
+Les valeurs de l’école sont basées sur l’entraide, la persévérance et le partage des connaissances. Ce sont des valeurs auxquelles j’accorde beaucoup d’importance, notamment dans le travail en équipe.
+
+> « Tout seul on va plus vite, ensemble, on va plus loin. »
+
+**Création :**
+[evreux-muay-thai-gym.fr](https://evreux-muay-thai-gym.fr/)
 
 ## Compétences
 
-|||
-|--------------------------------|------------------------------------|
-|  **Hard Skills**  |  <picture> <img alt="Logo HTML." src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" width=50> <img alt="Logo CSS." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" width=35> <img alt="Logo JS." src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" width=40> <img alt="Logo GoLand." src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" width=90> <img alt="Logo Rust." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width=45> <img alt="Logo WordPress." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQqvP9mSAN_KNxZlbvD9VT-yl4Vf_PuT6Cw&s" width=45> </picture>   |
-|  **Soft Skills**    |    Créativité - Communication visuelle - Curiosité - Esprit d’équipe - Simplicité et Pragmatisme - Fiabilité - Autonomie |
+| **Hard Skills** | **Soft Skills**           |
+| --------------- | ------------------------- |
+| HTML            | Créativité                |
+| CSS             | Communication visuelle    |
+| JavaScript      | Curiosité                 |
+| Go              | Esprit d’équipe           |
+| Rust            | Simplicité et pragmatisme |
+| WordPress       | Fiabilité                 |
+|                 | Autonomie                 |
 
 ## Logiciels pratiqués pendant mes formations
 
 <details>
-<summary>Langage de programmation, library, base de données, logiciels...</summary>
-  <br>
-  
-**Langages :**  
-<picture>
-<img alt="Logo HTML." src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png" width=50>
-<img alt="Logo CSS." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png" width=35>
-<img alt="Logo JS." src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" width=40>
-<img alt="Logo GoLand." src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" width=90>
-<img alt="Logo Java." src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1100px-Java_Logo.svg.png" width=40>
-<img alt="Logo PHP." src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width=70>
-<img alt="Logo Rust." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" width=40>
-</picture>
 
-**Frameworks et library :**  
-<picture>
-<img alt="Logo Angular." src="https://upload.wikimedia.org/wikipedia/commons/6/67/Angular_gradient_logo.png" width=50>
-<img alt="Logo Vue js." src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width=50>
-<img alt="Logo React." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR5U16C8yXgBpl7-Bc7Itjx3_LRl425zINA&s" width=50>
-<img alt="Logo Laravel." src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width=50>
-</picture>
+<summary>Langages de programmation, bibliothèques, bases de données, logiciels...</summary>
 
-**Base de données :**  
-<picture>
-<img alt="Logo SQL." src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1200px-Sql_data_base_with_logo.svg.png" width=70>
-<img alt="Logo MongoDB." src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/MongoDB-Logo.svg/2560px-MongoDB-Logo.svg.png" width=130>
-</picture>
+<br>
 
-**CMS et CMS Headless :**  
-<picture>
-<img alt="Logo WordPress." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQqvP9mSAN_KNxZlbvD9VT-yl4Vf_PuT6Cw&s" width=50>
-<img alt="Logo Strapi." src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" width=50>
-</picture>
+**Langages :**
 
-**Environnement de collaboration :**  
-<picture>
-<img alt="Logo git." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdd25hyNQOMs4Xx1Cv_A_oaT0zagfSWlXMBA&s" width=60>
-<img alt="Logo Jira." src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" width=60>
-<img alt="Logo confluence." src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Atlassian_Confluence_2017_logo.svg/2560px-Atlassian_Confluence_2017_logo.svg.png" width=140>
-</picture>
+<table>
+<tr>
 
-**Outil de visualisation graphique :**  
-<picture>
-<img alt="Logo Photoshop." src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" width=50>
-<img alt="Logo Illustrator." src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2048px-Adobe_Illustrator_CC_icon.svg.png" width=50>
-<img alt="Logo Xd." src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" width=50>
-<img alt="Logo Figma." src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width=32>
-</picture>
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/html5" width="45" alt="HTML5"><br>
+HTML
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/css" width="45" alt="CSS"><br>
+CSS
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/javascript" width="45" alt="JavaScript"><br>
+JavaScript
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/go" width="60" alt="Go"><br>
+Go
+</td>
+
+<td align="center" width="100">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="45" alt="Java"><br>
+Java
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/php" width="60" alt="PHP"><br>
+PHP
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.simpleicons.org/rust" width="45" alt="Rust"><br>
+Rust
+</td>
+
+</tr>
+</table>
+
+**Frameworks et bibliothèques :**
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/angular" width="45" alt="Angular"><br>
+Angular
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/vuedotjs" width="45" alt="Vue.js"><br>
+Vue.js
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/react" width="45" alt="React"><br>
+React
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/laravel" width="45" alt="Laravel"><br>
+Laravel
+</td>
+
+</tr>
+</table>
+
+**Bases de données :**
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/sqlite" width="45" alt="SQL"><br>
+SQL/SQLite
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/mongodb" width="45" alt="MongoDB"><br>
+MongoDB
+</td>
+
+</tr>
+</table>
+
+**CMS et CMS Headless :**
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/wordpress" width="45" alt="WordPress"><br>
+WordPress
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/strapi" width="45" alt="Strapi"><br>
+Strapi
+</td>
+
+</tr>
+</table>
+
+**Environnement de collaboration :**
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/git" width="45" alt="Git"><br>
+Git
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/jira" width="45" alt="Jira"><br>
+Jira
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/confluence" width="45" alt="Confluence"><br>
+Confluence
+</td>
+
+</tr>
+</table>
+
+**Outils de visualisation graphique :**
+
+<table>
+<tr>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/adobephotoshop" width="45" alt="Photoshop"><br>
+Photoshop
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/adobeillustrator" width="45" alt="Illustrator"><br>
+Illustrator
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/adobexd" width="45" alt="Adobe XD"><br>
+Adobe XD
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/figma" width="40" alt="Figma"><br>
+Figma
+</td>
+
+</tr>
+</table>
 
 </details>
-
